@@ -1,0 +1,3 @@
+https://claude.ai/share/21b7b491-96d5-4e80-80b7-4d8334ec7561
+
+I used Claude to make a book scraper. It also makes a chart from the gathered data comparing star rating to price. I learned that pagination is how a site splits lists across pages. I also learned that 
